@@ -89,10 +89,12 @@
 <a href="https://github.com/bhikandeshmukh/userrecon"><img title="Blackeye-v2.0" src="https://camo.githubusercontent.com/f8da3b026d01b6036628041cf231900b1415daaa6dd861269540baac65b7a9a6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d6268696b616e646573686d756b68267265706f3d757365727265636f6e267468656d653d64656661756c74" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&amp;repo=userrecon&amp;theme=default" style="max-width: 100%;"></a><br>
 </p>-->
 </details>
-<p align="center" dir="auto">
+<!--<p align="center" dir="auto">
 <a href="https://github.com/bhikandeshmukh/shark"><img title="Shark" src="https://camo.githubusercontent.com/45e22d29f97896201a17deebfb34477ef4bc99445412469dc69bb27e86434401/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d6268696b616e646573686d756b68267265706f3d736861726b267468656d653d6461726b" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&amp;repo=shark&amp;theme=dark" style="max-width: 100%;"></a>
 <a href="https://github.com/bhikandeshmukh/instarat"><img title="instarat" src="https://camo.githubusercontent.com/a650001542822e5337d0e80d895860d139a290e977c701e816518c7de90e34be/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d6268696b616e646573686d756b68267265706f3d696e737461726174267468656d653d64656661756c74" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&amp;repo=instarat&amp;theme=default" style="max-width: 100%;"></a>
 <a href="https://github.com/bhikandeshmukh/badges"><img title="AdvPhishing" src="https://camo.githubusercontent.com/15897776039ae75f1fe91c2a888c3d3e7d293d3c7583a823bb970c055d555285/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d6268696b616e646573686d756b68267265706f3d626164676573267468656d653d6461726b" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&amp;repo=badges&amp;theme=dark" style="max-width: 100%;"></a>
 <a href="https://github.com/bhikandeshmukh/CamPhish"><img title="Blackeye-v2.0" src="https://camo.githubusercontent.com/d3c7e92177a6019ed8e8a38866dd4bebfc19e91d9451edbb9e5cbc1c20e05c74/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d6268696b616e646573686d756b68267265706f3d43616d5068697368267468656d653d64656661756c74" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&amp;repo=CamPhish&amp;theme=default" style="max-width: 100%;"></a>
 
-</p></article>
+</p>
+-->
+</article>
